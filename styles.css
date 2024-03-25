@@ -1,0 +1,115 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Rancho', cursive;
+    background-color:lightgreen;
+    
+}
+.title {
+    font-size: 50px;
+    font-weight: 800;
+    padding: 0 20px;
+    color:darkgreen;
+}
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+h4{
+    color:darkred;
+    font-family:  'Coiny', cursive;
+
+}
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+.Part-Three-Yes{
+    display:none;
+}
+.Part-Four-Yes{
+    display:none;
+}
+.Part-Five-Yes{
+    display:none;
+}
+.Thanks-end{
+    display:none;
+}
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+}
+.enter1{
+    display:none;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+.mus{
+     color: green;}
+.no{
+height:350px;}
+.pick-img{
+    height:450px;
+}
+.badbunny-img{
+    height:155px;
+    position:absolute;
+    bottom:20px;
+    left: 430px;
+}
+.pierce-img{   
+    height:155px;
+    position:absolute;
+    bottom:20px;
+    left: 600px;
+    }
+.tyler{    
+    height:155px;
+    position:absolute;
+    bottom:20px;
+    left: 780px;
+}
+.baddie{
+    height:400px;
+}
+.tyler-img{
+    height:400px;
+}
+.emo-img{
+    height:400px;
+}
+.end-img{
+height:400px;}
+.wsh{
+color:slateblue;}
+.bb{
+color:darkblue;
+  font-family: 'Short Stack', cursive;
+
+}
+.em{ 
+    color:darkblue;
+    font-family: 'Shadows Into Light', cursive;
+}
+.tc{
+color:PaleVioletRed;
+    font-family: 'Permanent Marker', cursive;
+}
+.yas{
+    color:midnightblue;
+    font-family: 'Permanent Marker', cursive;
+
+}
+.naur{
+    font-family: 'Permanent Marker', cursive;}
